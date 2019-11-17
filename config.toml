@@ -28,3 +28,4 @@ copyright = "&copy; Copyright hyyu"
     # Short subtitle/tagline. This is displayed in the header.
     subtitle = "tagline of your blog"
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
+
